@@ -1,0 +1,5 @@
+Suggested GitHub repository name:
+conduit-realworld-blog-platform
+
+Suggested GitHub description:
+Full-stack RealWorld Conduit blog platform built with .NET 7, Vue 3/TypeScript, Flutter, JWT auth, REST APIs, image uploads, Markdown rendering, and tests.
