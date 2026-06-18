@@ -138,6 +138,32 @@ cd apps/flutter
 flutter test
 ```
 
-## Portfolio Note
+## What I Learned
 
-This repository is a cleaned public version of a four-milestone university project. The final code version is used as the main source, while the milestone history is documented in `docs/MILESTONE_HISTORY.md`.
+Through this project, I gained practical experience in building a full-stack web application with a structured backend, modern frontend, and clear API communication between both parts.
+
+Some of the main things I learned include:
+
+- Designing and implementing RESTful APIs with ASP.NET Core
+- Structuring a backend project using clean architecture principles
+- Working with authentication and JWT-based user sessions
+- Connecting a frontend application with backend API endpoints
+- Managing user-related features such as profiles, articles, comments, and favorites
+- Using TypeScript and Vue.js to build a modern user interface
+- Understanding how frontend, backend, database, and mobile clients can work together in one larger software system
+- Working with Git and GitHub during a multi-step development process
+- Improving code organization, documentation, and project presentation for a professional portfolio
+
+## Challenges and Improvements
+
+During the project, one of the main challenges was understanding how the different parts of a full-stack application interact with each other. The backend, frontend, authentication system, and database all needed to work together correctly.
+
+Another challenge was keeping the project organized while it was developed through multiple milestones. This helped me understand the importance of clean project structure, readable code, and good documentation.
+
+In the future, I would like to improve this project by adding more automated tests, improving the UI/UX, adding better error handling, and deploying the application online so it can be tested directly in a browser.
+
+## Why This Project Is Important to Me
+
+This project was important for me because it gave me practical experience beyond theoretical university exercises. It helped me understand how real software projects are structured and how different technologies are combined to build a complete application.
+
+It also strengthened my interest in full-stack development, backend APIs, clean architecture, and modern software engineering practices.
